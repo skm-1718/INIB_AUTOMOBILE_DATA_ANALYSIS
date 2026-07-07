@@ -53,7 +53,7 @@ The main objective of this project is to perform Exploratory Data Analysis (EDA)
 * Analyzed pricing differences across brands, body styles, and fuel types
   
 * Examined how technical specifications influence mileage and market value
-* 
+  
 * Highlighted overall trends and feature relationships within the automobile dataset
   
 
